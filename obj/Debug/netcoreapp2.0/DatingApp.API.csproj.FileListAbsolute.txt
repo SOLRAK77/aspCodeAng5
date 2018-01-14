@@ -1,0 +1,10 @@
+/home/solrak/Laboratorio/coreASP/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.deps.json
+/home/solrak/Laboratorio/coreASP/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.runtimeconfig.json
+/home/solrak/Laboratorio/coreASP/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.runtimeconfig.dev.json
+/home/solrak/Laboratorio/coreASP/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.dll
+/home/solrak/Laboratorio/coreASP/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.pdb
+/home/solrak/Laboratorio/coreASP/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.csproj.CoreCompileInputs.cache
+/home/solrak/Laboratorio/coreASP/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.AssemblyInfoInputs.cache
+/home/solrak/Laboratorio/coreASP/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.AssemblyInfo.cs
+/home/solrak/Laboratorio/coreASP/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.dll
+/home/solrak/Laboratorio/coreASP/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.pdb
