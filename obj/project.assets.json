@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/solrak/Laboratorio/coreASP/DatingApp.API/DatingApp.API.csproj",
+      "projectUniqueName": "/home/solrak/Laboratorio/coreASP/DattingApp/DatingApp.API/DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "/home/solrak/Laboratorio/coreASP/DatingApp.API/DatingApp.API.csproj",
+      "projectPath": "/home/solrak/Laboratorio/coreASP/DattingApp/DatingApp.API/DatingApp.API.csproj",
       "packagesPath": "/home/solrak/.nuget/packages/",
-      "outputPath": "/home/solrak/Laboratorio/coreASP/DatingApp.API/obj/",
+      "outputPath": "/home/solrak/Laboratorio/coreASP/DattingApp/DatingApp.API/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
